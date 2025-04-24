@@ -719,16 +719,12 @@ footer .lastp {
     }
 
     footer .container .col1 div {
-        width: 100px;
-    }
-
-    footer .container .col3 div{
-        max-width: 100px;
+        width: 140px;
     }
 
     footer .container .col2 {
-        width: 30px;
-        max-height: 80px;
+        width: 60px;
+        max-height: 100px;
     }
 
 }
